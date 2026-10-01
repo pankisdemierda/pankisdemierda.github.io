@@ -4,6 +4,23 @@ layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# Pankis de Mierda
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Un fanzine de mierda hecho desde África.
+
+Aquí puedes descargar todos los números de **Pankis de Mierda** en PDF.
+
+## Números publicados
+
+### Nº 0
+Primer número de Pankis de Mierda.
+
+[Descargar Nº 1](#)
+
+### Nº 1
+Segundo número de Pankis de Mierda.
+
+[Descargar Nº 2](#)
+
+### Nº 2
+Próximamente.
