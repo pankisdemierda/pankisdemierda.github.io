@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# PANKIS DE MIERDA
+<h1 style="color:#ff2aa1;">PANKIS DE MIERDA</h1>
 
 Fanzine punk DIY.
 
@@ -11,6 +11,10 @@ Archivo digital de todos los números publicados.
 ---
 
 ## Números disponibles
+
+<h3 style="color:#ff2aa1;">Nº 3 — Septiembre 2026</h3>
+
+<img src="/assets/images/3.jpg" alt="Portada nº 3" width="300">
 
 En este **nº 3 de Pankis de Mierda** la portada corre a cargo de **Jaume, de Polze de la Mort**, y dentro nos ponemos a charlar con **Atvra**, **Piko** y **Pladür**.
 
@@ -22,7 +26,9 @@ Sin grandes historias, sin postureos y hecho como sabemos: **a nuestra puta mane
 
 ---
 
-### Nº 2 — Agosto 2026
+<h3 style="color:#ff2aa1;">Nº 2 — Agosto 2026</h3>
+
+<img src="/assets/images/2.jpg" alt="Portada nº 2" width="300">
 
 En este **nº 2 de Pankis de Mierda** contamos con portada de **Gonzalo, de Cat a Punch**, y entrevistas a **Plomo**, **Montaña** y **Cat a Punch**.
 
@@ -30,11 +36,13 @@ También incluimos una reseña de **Secuestro** y seguimos dando espacio a banda
 
 Otro número hecho a nuestra manera, con papel, ruido y ganas de seguir dándole.
 
-[DESCARGAR PDF](/fanzines/0.pdf)
+[DESCARGAR PDF](/fanzines/2.pdf)
 
 ---
 
-### Nº 1 — Julio 2026
+<h3 style="color:#ff2aa1;">Nº 1 — Julio 2026</h3>
+
+<img src="/assets/images/1.jpg" alt="Portada nº 1" width="300">
 
 En este **nº 1 de Pankis de Mierda** contamos con portada de **Josu Flamart** y entrevistas a **AVE Fest**, **Achake** y **Gripp!**.
 
@@ -46,9 +54,9 @@ Un número más hecho a nuestra manera, sin demasiadas vueltas y con ganas de se
 
 ---
 
-### Nº 0
+<h3 style="color:#ff2aa1;">Nº 0</h3>
 
-Primer número de **Pankis de Mierda**.
+<img src="/assets/images/0.jpg" alt="Portada nº 0" width="300">
 
 El **nº 0 de Pankis de Mierda** fue el punto de partida de todo este tinglado.
 
@@ -58,14 +66,16 @@ Un primer disparo hecho desde el **DIY**, con ganas de recuperar el papel, el ru
 
 Aquí empezó **Pankis de Mierda**.
 
-[DESCARGAR PDF](/fanzines/2.pdf)
+[DESCARGAR PDF](/fanzines/0.pdf)
 
 ---
-
-> HECHO A MANO · DIY · SIN JEFES · SIN PUBLICIDAD
 
 **NOTA:** Si quieres **imprimirlo, fotocopiarlo, repartirlo o moverlo por ahí**, hazlo.
 
 Está montado en **A3 plegado a A4**, pensado para imprimir a doble cara, doblar, grapar y tirar millas.
 
 **Cópialo, pásalo, difúndelo. Cuanto más ruede, mejor.**
+
+<p style="text-align:center; margin-top:40px;">
+  <strong>HECHO CON HUMILDAD · MUCHO PUNK · CERO POSTUREO</strong>
+</p>
