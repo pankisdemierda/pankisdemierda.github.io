@@ -2,6 +2,12 @@
 layout: home
 ---
 
+<style>
+h1, h2, h3, strong {
+  color: #ff2aa1 !important;
+}
+</style>
+
 <h1 style="color:#ff2aa1;">PANKIS DE MIERDA</h1>
 
 Fanzine punk DIY.
