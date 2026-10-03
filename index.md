@@ -14,7 +14,7 @@ Archivo digital de todos los números publicados.
 
 <h3 style="color:#ff2aa1;">Nº 3 — Septiembre 2026</h3>
 
-<img src="/assets/images/3.jpg" alt="Portada nº 3" width="300">
+<img src="/assets/images/4.jpg" alt="Portada nº 3" width="300">
 
 En este **nº 3 de Pankis de Mierda** la portada corre a cargo de **Jaume, de Polze de la Mort**, y dentro nos ponemos a charlar con **Atvra**, **Piko** y **Pladür**.
 
@@ -28,7 +28,7 @@ Sin grandes historias, sin postureos y hecho como sabemos: **a nuestra puta mane
 
 <h3 style="color:#ff2aa1;">Nº 2 — Agosto 2026</h3>
 
-<img src="/assets/images/2.jpg" alt="Portada nº 2" width="300">
+<img src="/assets/images/3.jpg" alt="Portada nº 2" width="300">
 
 En este **nº 2 de Pankis de Mierda** contamos con portada de **Gonzalo, de Cat a Punch**, y entrevistas a **Plomo**, **Montaña** y **Cat a Punch**.
 
