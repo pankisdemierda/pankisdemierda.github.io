@@ -12,15 +12,13 @@ Archivo digital de todos los números publicados.
 
 ## Números disponibles
 
-### Nº 3 — Septiembre 2026
-
 En este **nº 3 de Pankis de Mierda** la portada corre a cargo de **Jaume, de Polze de la Mort**, y dentro nos ponemos a charlar con **Atvra**, **Piko** y **Pladür**.
 
 También cae una reseña de **Mango Wood** y, como siempre, un poco de ruido, bandas que nos molan y ganas de seguir dando la turra desde el papel.
 
 Sin grandes historias, sin postureos y hecho como sabemos: **a nuestra puta manera**.
 
-[DESCARGAR PDF](#)
+**Este número se podrá descargar cuando salga el siguiente.**
 
 ---
 
@@ -32,7 +30,7 @@ También incluimos una reseña de **Secuestro** y seguimos dando espacio a banda
 
 Otro número hecho a nuestra manera, con papel, ruido y ganas de seguir dándole.
 
-[DESCARGAR PDF](#)
+[DESCARGAR PDF](/fanzines/0.pdf)
 
 ---
 
@@ -44,7 +42,7 @@ También metemos reseñas de **Coloso** y **Diskonformes**, y seguimos dando esp
 
 Un número más hecho a nuestra manera, sin demasiadas vueltas y con ganas de seguir sacando esto adelante.
 
-[DESCARGAR PDF](#)
+[DESCARGAR PDF](/fanzines/1.pdf)
 
 ---
 
@@ -60,8 +58,14 @@ Un primer disparo hecho desde el **DIY**, con ganas de recuperar el papel, el ru
 
 Aquí empezó **Pankis de Mierda**.
 
-[DESCARGAR PDF](#)
+[DESCARGAR PDF](/fanzines/2.pdf)
 
 ---
 
 > HECHO A MANO · DIY · SIN JEFES · SIN PUBLICIDAD
+
+**NOTA:** Si quieres **imprimirlo, fotocopiarlo, repartirlo o moverlo por ahí**, hazlo.
+
+Está montado en **A3 plegado a A4**, pensado para imprimir a doble cara, doblar, grapar y tirar millas.
+
+**Cópialo, pásalo, difúndelo. Cuanto más ruede, mejor.**
