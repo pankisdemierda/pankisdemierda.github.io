@@ -8,7 +8,7 @@ h1, h2, h3, strong {
 }
 </style>
 
-<h1 style="color:#ff2aa1;">PANKIS DE MIERDA</h1>
+<h1>PANKIS DE MIERDA</h1>
 
 Fanzine punk DIY.
 
@@ -18,7 +18,7 @@ Archivo digital de todos los números publicados.
 
 ## Números disponibles
 
-<h3 style="color:#ff2aa1;">Nº 3 — Septiembre 2026</h3>
+<h3>Nº 3 — Septiembre 2026</h3>
 
 <img src="/assets/images/4.jpg" alt="Portada nº 3" width="300">
 
@@ -32,7 +32,7 @@ Sin grandes historias, sin postureos y hecho como sabemos: **a nuestra puta mane
 
 ---
 
-<h3 style="color:#ff2aa1;">Nº 2 — Agosto 2026</h3>
+<h3>Nº 2 — Agosto 2026</h3>
 
 <img src="/assets/images/3.jpg" alt="Portada nº 2" width="300">
 
@@ -46,7 +46,7 @@ Otro número hecho a nuestra manera, con papel, ruido y ganas de seguir dándole
 
 ---
 
-<h3 style="color:#ff2aa1;">Nº 1 — Julio 2026</h3>
+<h3>Nº 1 — Julio 2026</h3>
 
 <img src="/assets/images/1.jpg" alt="Portada nº 1" width="300">
 
@@ -60,7 +60,7 @@ Un número más hecho a nuestra manera, sin demasiadas vueltas y con ganas de se
 
 ---
 
-<h3 style="color:#ff2aa1;">Nº 0</h3>
+<h3>Nº 0</h3>
 
 <img src="/assets/images/0.jpg" alt="Portada nº 0" width="300">
 
@@ -79,6 +79,12 @@ Aquí empezó **Pankis de Mierda**.
 **NOTA:** Si quieres **imprimirlo, fotocopiarlo, repartirlo o moverlo por ahí**, hazlo.
 
 Está montado en **A3 plegado a A4**, pensado para imprimir a doble cara, doblar, grapar y tirar millas.
+
+**Cópialo, pásalo, difúndelo. Cuanto más ruede, mejor.**
+
+<p style="text-align:center; margin-top:40px;">
+  <strong>HECHO CON HUMILDAD · MUCHO PUNK · CERO POSTUREO</strong>
+</p>
 
 **Cópialo, pásalo, difúndelo. Cuanto más ruede, mejor.**
 
