@@ -1,26 +1,47 @@
 ---
-title: /
 layout: home
-permalink: /
 ---
 
-# Pankis de Mierda
+# PANKIS DE MIERDA
 
-Un fanzine de mierda hecho desde África.
+Fanzine punk DIY.
 
-Aquí puedes descargar todos los números de **Pankis de Mierda** en PDF.
+Archivo digital de todos los números publicados.
 
-## Números publicados
+---
+
+## Números disponibles
 
 ### Nº 0
-Primer número de Pankis de Mierda.
 
-[Descargar Nº 1](#)
+Primer número de **Pankis de Mierda**.
 
-### Nº 1
-Segundo número de Pankis de Mierda.
+[DESCARGAR PDF](#)
 
-[Descargar Nº 2](#)
+---
 
-### Nº 2
-Próximamente.
+### Nº 1 — Mayo 2026
+
+Segundo número publicado del fanzine.
+
+[DESCARGAR PDF](#)
+
+---
+
+### Nº 2 — Junio 2026
+
+Nuevo número de **Pankis de Mierda**.
+
+[DESCARGAR PDF](#)
+
+---
+
+### Nº 3 — Julio 2026
+
+Entrevistas, ruido y punk.
+
+[DESCARGAR PDF](#)
+
+---
+
+> HECHO A MANO · DIY · SIN JEFES · SIN PUBLICIDAD
