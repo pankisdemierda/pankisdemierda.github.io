@@ -28,7 +28,7 @@ También cae una reseña de **Mango Wood** y, como siempre, un poco de ruido, ba
 
 Sin grandes historias, sin postureos y hecho como sabemos: **a nuestra puta manera**.
 
-**Este número se podrá descargar cuando salga el siguiente.**
+[DESCARGAR PDF](/fanzines/3.pdf)
 
 ---
 
