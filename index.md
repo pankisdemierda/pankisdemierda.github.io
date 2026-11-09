@@ -16,7 +16,25 @@ Archivo digital de todos los números publicados.
 
 ---
 
-## Números disponibles
+## Números publicados
+
+<h3>Nº 4 — Noviembre 2026</h3>
+
+<img src="/assets/images/5.jpg" alt="Portada nº 4" width="300">
+
+En este **nº 4 de Pankis de Mierda** la portada corre a cargo de **Jimmy Bananas**, y dentro nos ponemos a charlar con **Natacha**, **Mastín** y **Forma**.
+
+También metemos reseñas de **Orina** y **Pánico Sin Fronteras**, y seguimos dando espacio a bandas, gente y proyectos que nos molan.
+
+Otro número hecho desde el **DIY**, con mucho ruido, ganas de seguir dando la turra y, como siempre, **a nuestra puta manera**.
+
+**DESCARGA NO DISPONIBLE**
+
+El PDF de este número estará disponible para descargar gratuitamente cuando publiquemos el siguiente número de **Pankis de Mierda**.
+
+De momento, toca disfrutarlo en papel.
+
+---
 
 <h3>Nº 3 — Septiembre 2026</h3>
 
@@ -85,7 +103,7 @@ Está montado en **A3 plegado a A4**, pensado para imprimir a doble cara, doblar
 <p style="text-align:center; margin-top:40px;">
   <strong>HECHO CON HUMILDAD · MUCHO PUNK · CERO POSTUREO</strong>
 </p>
-
+</p>
 **Cópialo, pásalo, difúndelo. Cuanto más ruede, mejor.**
 
 <p style="text-align:center; margin-top:40px;">
